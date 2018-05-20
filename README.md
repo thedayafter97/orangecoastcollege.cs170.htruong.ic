@@ -1,2 +1,2 @@
-# orangecoastcollege.cs170.htruong114.ic
+# orangecoastcollege.cs170.htruong.ic
 All assignments in CS170
